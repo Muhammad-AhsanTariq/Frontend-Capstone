@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Frontend-Capstonegit%20/static/js/main.cdf0c24c.js",
-    "index.html": "/Frontend-Capstonegit%20/index.html",
-    "main.cdf0c24c.js.map": "/Frontend-Capstonegit%20/static/js/main.cdf0c24c.js.map"
+    "main.js": "/Frontend-Capstone/static/js/main.cdf0c24c.js",
+    "index.html": "/Frontend-Capstone/index.html",
+    "main.cdf0c24c.js.map": "/Frontend-Capstone/static/js/main.cdf0c24c.js.map"
   },
   "entrypoints": [
     "static/js/main.cdf0c24c.js"
