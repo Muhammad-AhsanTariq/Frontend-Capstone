@@ -20,6 +20,7 @@ function App () {
           <Route path="login" element= {<Login />} />
           <Route path="signUp" element= {<Signup />} />
           <Route path="empty" element= {<NotFound />} />
+          <Route path="*" element= {<NotFound />} />
         </Routes>
       
       </Router>

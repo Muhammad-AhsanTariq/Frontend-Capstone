@@ -6,7 +6,7 @@ export const NotFound = () => {
   useEffect(() => {
     setTimeout(() => {
       navigate("/home");
-    }, 5000);
+    }, 1000);
   }, [navigate]);
   return <div>Not Found</div>;
 };
