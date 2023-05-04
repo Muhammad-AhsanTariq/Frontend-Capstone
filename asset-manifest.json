@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Frontend-Capstone/static/js/main.cdf0c24c.js",
+    "main.js": "/Frontend-Capstone/static/js/main.a8bfd57f.js",
     "index.html": "/Frontend-Capstone/index.html",
-    "main.cdf0c24c.js.map": "/Frontend-Capstone/static/js/main.cdf0c24c.js.map"
+    "main.a8bfd57f.js.map": "/Frontend-Capstone/static/js/main.a8bfd57f.js.map"
   },
   "entrypoints": [
-    "static/js/main.cdf0c24c.js"
+    "static/js/main.a8bfd57f.js"
   ]
 }
