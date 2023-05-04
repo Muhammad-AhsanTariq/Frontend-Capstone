@@ -1,7 +1,7 @@
 import React from "react"
 import {Navbar } from './Navbar1';
 
-<Navbar />
+
  export const Login=()=> {
     const [loginFormData, setLoginFormData] = React.useState({ email: "", password: "" })
 
@@ -19,6 +19,8 @@ import {Navbar } from './Navbar1';
     }
 
     return (
+        <>
+        <Navbar />
         <div className="form-container">
             <h1>Sign in to your account</h1>
             <form className="form" onSubmit={handleSubmit} >
@@ -41,6 +43,7 @@ import {Navbar } from './Navbar1';
                 <button className="form--submit">Log in</button>
             </form>
         </div>
+        </>
     )
 
 }
