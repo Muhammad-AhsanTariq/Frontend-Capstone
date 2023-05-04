@@ -1,7 +1,7 @@
 import React from "react"
 import {Navbar } from './Navbar1';
 
-<Navbar />;
+<Navbar />
  export const Signup=()=> {
     const [formData, setFormData] = React.useState({
         email: "",
