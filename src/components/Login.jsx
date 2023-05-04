@@ -1,6 +1,7 @@
 import React from "react"
+import {Navbar } from './Navbar1';
 
-
+<Navbar />
  export const Login=()=> {
     const [loginFormData, setLoginFormData] = React.useState({ email: "", password: "" })
 

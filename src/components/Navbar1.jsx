@@ -23,7 +23,7 @@ export const Navbar = () => {
                             <a className="nav-link " aria-current="page" href="/" ><NavLink to='/home' className="text-secondary text-decoration-none"> Home </NavLink></a>
                         </li>
                         <li className="nav-item mx-2">
-                            <a className="nav-link" href="/" >Services</a>
+                            <a className="nav-link" href="/" ><NavLink to='/empty' className="text-secondary text-decoration-none"> Services </NavLink></a>
                         </li>
                         <li className="nav-item dropdown mx-2">
                             <a className="nav-link dropdown-toggle" href="/"  role="button" data-bs-toggle="dropdown"
@@ -63,11 +63,11 @@ export const Navbar = () => {
                             </div>
                         </li>
                         <li className="nav-item mx-2">
-                            <a className="nav-link" href="/" >Prices</a>
+                            <a className="nav-link" href="/" ><NavLink to='/empty' className="text-secondary text-decoration-none">Prices </NavLink></a>
                         </li>
 
                         <li className="nav-item mx-2">
-                            <a className="nav-link" href="/" >Company</a>
+                            <a className="nav-link" href="/" ><NavLink to='/empty' className="text-secondary text-decoration-none"> Company </NavLink></a>
                         </li>
                     </ul>
 
